@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBWHjWTJvgJ7X5t9wLPyOCYdkda3VyYOgI',
-    appId: '1:335331728930:web:2c80b708d28dc22b62b47b',
-    messagingSenderId: '335331728930',
-    projectId: 'demodb-9a4ef',
-    authDomain: 'demodb-9a4ef.firebaseapp.com',
-    storageBucket: 'demodb-9a4ef.appspot.com',
-    measurementId: 'G-PGB3E96W75',
+    apiKey: 'AIzaSyB9m1gGlWNpSrm7XXfEWluH8GL771iEw9M',
+    appId: '1:767476495354:web:0619f80c9e850c56102a43',
+    messagingSenderId: '767476495354',
+    projectId: 'practice-8fe8f',
+    authDomain: 'practice-8fe8f.firebaseapp.com',
+    storageBucket: 'practice-8fe8f.appspot.com',
+    measurementId: 'G-EQQB5VED0E',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBd0kb5a7U8JcA6t2EVhITLmzSg7m98xaM',
-    appId: '1:335331728930:android:764df7da12f441ad62b47b',
-    messagingSenderId: '335331728930',
-    projectId: 'demodb-9a4ef',
-    storageBucket: 'demodb-9a4ef.appspot.com',
+    apiKey: 'AIzaSyBqDHpcKKWFgptodKxU1ss93nLfzzMKcZA',
+    appId: '1:767476495354:android:af945cb5face8599102a43',
+    messagingSenderId: '767476495354',
+    projectId: 'practice-8fe8f',
+    storageBucket: 'practice-8fe8f.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDXAxHCEDi_IUTDLtG5e5keyAio0I0fYFc',
-    appId: '1:335331728930:ios:2248ac3cc2cf894262b47b',
-    messagingSenderId: '335331728930',
-    projectId: 'demodb-9a4ef',
-    storageBucket: 'demodb-9a4ef.appspot.com',
+    apiKey: 'AIzaSyCN8_rWBaSX4m8k0Bq7SnQEwpnuEj8nRww',
+    appId: '1:767476495354:ios:8ebeca35006d570d102a43',
+    messagingSenderId: '767476495354',
+    projectId: 'practice-8fe8f',
+    storageBucket: 'practice-8fe8f.appspot.com',
     iosBundleId: 'com.example.crud',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDXAxHCEDi_IUTDLtG5e5keyAio0I0fYFc',
-    appId: '1:335331728930:ios:72329beb4b30f67f62b47b',
-    messagingSenderId: '335331728930',
-    projectId: 'demodb-9a4ef',
-    storageBucket: 'demodb-9a4ef.appspot.com',
+    apiKey: 'AIzaSyCN8_rWBaSX4m8k0Bq7SnQEwpnuEj8nRww',
+    appId: '1:767476495354:ios:8caa7258de5d4ac3102a43',
+    messagingSenderId: '767476495354',
+    projectId: 'practice-8fe8f',
+    storageBucket: 'practice-8fe8f.appspot.com',
     iosBundleId: 'com.example.crud.RunnerTests',
   );
 }
