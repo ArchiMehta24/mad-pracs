@@ -78,7 +78,7 @@ class _HomeScreenState extends State<HomeScreen> {
         items: const [
           BottomNavigationBarItem(
             icon: Icon(Icons.access_time),
-            label: 'Date&Time',
+            label: 'Date & Time',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.notifications),
